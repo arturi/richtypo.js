@@ -7,7 +7,7 @@
 
 	"rules": {
 		"emdash": {
-			"regex": "\\s—",
+			"regex": "\\[ \t]—",
 			"result": "$(nbsp)—"
 		},
 		"etc": [
